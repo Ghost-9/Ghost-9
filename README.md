@@ -35,15 +35,15 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
     </td>
     <td width="50%" valign="top">
       <h4>💼 <a href="https://github.com/Ghost-9/employee-ledger">Employee Ledger PWA</a></h4>
-      <p>Team directory with live headcount metrics, substring search, tenure computation, and offline-first Sembast persistence.</p>
-      <p><code>Flutter Web</code> <code>PWA</code> <code>BLoC</code> <code>Sembast</code></p>
+      <p>Executive team directory with real-time KPI headcount metrics, instant substring search, tenure computation, and offline-first Sembast persistence.</p>
+      <p><a href="https://ghost-9.github.io/employee-ledger/"><strong>🚀 Launch Live PWA</strong></a> &bull; <code>Flutter Web</code> <code>BLoC 9.x</code> <code>Sembast</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🏥 <a href="https://github.com/Ghost-9/caretaker">CareTaker Concierge</a></h4>
-      <p>Healthcare and transitional-care concierge platform. Care-discipline bento grid, clinical protocols, and a Next.js app router.</p>
-      <p><code>Next.js 15</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind</code></p>
+      <p>High-end healthcare and transitional care concierge platform built with Next.js 15 and Tailwind CSS. Features Care Disciplines Bento Grid and Clinical Protocols.</p>
+      <p><a href="https://ghost-9.github.io/caretaker/"><strong>🌐 Launch Live Site</strong></a> &bull; <a href="https://caretaker-nine.vercel.app"><strong>⚡ Vercel Mirror</strong></a> &bull; <code>Next.js 15</code> <code>Tailwind CSS</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>☕ <a href="https://github.com/Ghost-9/Coffee-App">Artisan Coffee</a></h4>
