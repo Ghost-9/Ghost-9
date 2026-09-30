@@ -67,53 +67,6 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
 
 ---
 
-## What we are building
-
-### Notes
-- Notes download as a single JSON file
-- The page follows your system light or dark setting
-- Results narrow as you type, and an empty query keeps what was there
-- Notes keep the order you left them in, newest first
-- A note saves without a title, and gets one the moment it opens
-
-### Client operations platform
-- Extend offline-awareness to devices, milestones and summaries
-- Clear offline cache on sign-out, show pending-changes badge
-- Route tasks/goals/projects/devices mutations through MutationQueue
-- Dashboard screen for Mission Control engine (Supabase mirror)
-- Add Supabase sync queue for offline writes
-- Offline cached rendering with invalidation
-- _…and 3 more in the history_
-
-## What has shipped
-
-### v1.2.0
-**CareTaker**
-- Editorial bento architecture, Next.js 16 runtime, and custom patient protocol cards
-
-**Furniture App UI**
-- Multi-device responsive engine and interactive web deployment
-
-### v1.1.0
-**Artisan Coffee**
-- OLED dark mode catalog, Material 3 upgrade, and web preview build
-
-**Employee Ledger**
-- Offline-first Sembast database persistence, real-time KPI metrics, and PWA packaging
-
-### v0.1.0
-**Notes**
-- A note can be pinned to the top, above the rest
-- Export writes Markdown beside the JSON
-- Search reads tag names as well as the note text
-- A note carries more than one tag, and no tag is required
-
-## Considered and declined
-- Publish Notes as a hosted app
-- A rich text editor
-- Cloud sync for Notes
-
----
 ### Stack
 
 ```
