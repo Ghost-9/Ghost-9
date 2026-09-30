@@ -67,8 +67,6 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
 
 ---
 
-<!-- ROADMAP:START -->
-
 ## What we are building
 
 ### Notes
@@ -114,8 +112,6 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
 - Publish Notes as a hosted app
 - A rich text editor
 - Cloud sync for Notes
-
-<!-- ROADMAP:END -->
 
 ---
 ### Stack
