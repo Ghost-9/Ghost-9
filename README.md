@@ -1,86 +1,83 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/hero-dark.jpg">
+  <img alt="Mayank Batra — Product Engineer, Interface Designer" src=".github/assets/hero-light.jpg" width="100%">
+</picture>
 
-# Mayank Batra
-
-<p align="center">
-  <strong>Product Engineer & Interface Designer</strong><br />
-  <em>Specializing in fluid mobile interfaces, design systems, and modern web architectures.</em>
-</p>
+<h3 align="center">I build gesture-driven mobile interfaces, design systems, and offline-first web architecture.</h3>
 
 <p align="center">
-  <a href="https://github.com/Ghost-9?tab=repositories&q=&type=source">Original Repositories</a> •
-  <a href="#featured-works">Featured Projects</a> •
-  <a href="#engineering--craft">Engineering Philosophy</a>
+  <a href="#featured-work">Featured work</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#craft">Craft</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Ghost-9?tab=repositories">All repositories</a> &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Avartana-Labs">Avartana Labs</a>
 </p>
-
-</div>
 
 ---
 
-### Engineering & Craft
+### Craft
 
-I focus on software where interaction design and engineering rigor meet. My work centers on 60fps gestural fluency, thoughtful micro-interactions, and robust system architecture across mobile and web platforms.
+I work where interaction design and engineering rigor meet: 60fps gestural fluency, deliberate micro-interactions, and architecture that survives a bad network.
 
-* **Mobile Craft:** Declarative UI architectures in Flutter & SwiftUI with custom physics, haptic pacing, and gestural navigations.
-* **Web Systems:** High-performance web applications with Next.js 15, React 19, TypeScript, and modern luxury design tokens.
-* **Architecture:** Offline-first caching, local embedded databases (Sembast IndexedDB), responsive multi-viewport elasticity, and clean component-driven design systems.
+* **Mobile** — declarative UI in Flutter & SwiftUI, with custom physics, haptic pacing, and gesture-driven navigation.
+* **Web** — Next.js, React and TypeScript, with component-driven design systems and responsive layouts across viewports.
+* **Systems** — offline-first caching, embedded stores such as Sembast, and packaging that ships as PWA, APK, or native.
 
 ---
 
-### Featured Works
+### Featured work
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🪑 <a href="https://github.com/Ghost-9/Furniture-App-UI">Furniture App UI</a></h4>
-      <p>Gesture-driven interior catalog inspired by high-end spatial aesthetics. Features collection carousels, responsive multi-device viewports, and story-style swipe transitions.</p>
-      <p><code>Flutter 3.x</code> <code>Dart 3.x</code> <code>Adaptive Layouts</code> <code>UI/UX</code></p>
+      <p>Gesture-driven interior catalog. Collection carousels, responsive multi-device viewports, and story-style swipe transitions.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Adaptive Layouts</code> <code>UI/UX</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>💼 <a href="https://github.com/Ghost-9/employee_management">Employee Ledger PWA</a></h4>
-      <p>Executive team directory with real-time KPI headcount metrics, instant substring search, tenure computation, and offline-first Sembast persistence.</p>
-      <p><code>Flutter Web</code> <code>PWA</code> <code>BLoC 9.x</code> <code>Sembast NoSQL</code></p>
+      <p>Team directory with live headcount metrics, substring search, tenure computation, and offline-first Sembast persistence.</p>
+      <p><code>Flutter Web</code> <code>PWA</code> <code>BLoC</code> <code>Sembast</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🏥 <a href="https://github.com/Ghost-9/caretaker">CareTaker Concierge</a></h4>
-      <p>High-end healthcare and transitional care concierge platform built with Next.js 15 and Tailwind CSS. Features Care Disciplines Bento Grid and Clinical Protocols.</p>
-      <p><code>Next.js 15</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
+      <p>Healthcare and transitional-care concierge platform. Care-discipline bento grid, clinical protocols, and a Next.js app router.</p>
+      <p><code>Next.js 15</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>☕ <a href="https://github.com/Ghost-9/Coffee-App">Artisan Coffee App</a></h4>
-      <p>OLED-tuned artisan coffee ordering experience with interactive roast searching, fluid category switching, tactile cart physics, and Material 3 design.</p>
-      <p><code>Flutter 3.x</code> <code>Dart 3.x</code> <code>Dark Mode OLED</code> <code>Material 3</code></p>
+      <h4>☕ <a href="https://github.com/Ghost-9/Coffee-App">Artisan Coffee</a></h4>
+      <p>OLED-tuned ordering experience: interactive roast search, fluid category switching, and a cart with tactile physics.</p>
+      <p><code>Flutter</code> <code>Dart</code> <code>Material 3</code> <code>OLED Dark</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🌤️ <a href="https://github.com/Ghost-9/Weather-App">Cupertino Weather</a></h4>
-      <p>Native iOS & macOS weather application handcrafted with Apple's SwiftUI framework. Features dynamic diurnal cycles, ultra-thin frosted glass telemetry, and SF Symbols.</p>
-      <p><code>Swift 5.x</code> <code>SwiftUI</code> <code>SF Symbols 5</code> <code>Cupertino HIG</code></p>
+      <p>Native iOS &amp; macOS app in SwiftUI. Dynamic diurnal cycles, thin frosted-glass telemetry, and SF Symbols throughout.</p>
+      <p><code>Swift</code> <code>SwiftUI</code> <code>macOS</code> <code>HIG</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>✨ <a href="https://github.com/Ghost-9?tab=repositories">More Projects</a></h4>
-      <p>Explore full repository archive covering experimental prototypes, open-source utilities, and architectural explorations.</p>
-      <p><code>Open Source</code> <code>GitHub Showcase</code> <code>Full Archive</code></p>
+      <h4>🧰 <a href="https://github.com/Ghost-9?tab=repositories">The full archive</a></h4>
+      <p>macOS utilities, prototypes, and design experiments — including an offline dictation tool and a usage-limit pinner for coding agents.</p>
+      <p><code>Swift</code> <code>Tauri</code> <code>TypeScript</code></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### Systems & Technologies
+### Stack
 
 ```
-Mobile Platforms      Flutter · Dart · Swift · SwiftUI
-Web & Frontend        TypeScript · React · Next.js · Tailwind CSS
-State & Storage       Bloc / Provider · Sembast · Offline-First · REST
-Tooling & Build       Xcode · Android Studio · Git · Vercel · GitHub Actions
+Mobile      Flutter · Dart · Swift · SwiftUI
+Web         TypeScript · React · Next.js · Tailwind CSS
+State       BLoC / Provider · Sembast · Offline-First · REST
+Tooling     Xcode · Android Studio · Git · GitHub Actions · Vercel
 ```
 
 ---
 
-<div align="center">
-  <sub>Designed with restraint and focus • <a href="https://github.com/Ghost-9">github.com/Ghost-9</a></sub>
-</div>
+<p align="center">
+  <sub>Built at <a href="https://github.com/Avartana-Labs">Avartana Labs</a> · <a href="https://github.com/Ghost-9">github.com/Ghost-9</a></sub>
+</p>
