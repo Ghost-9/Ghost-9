@@ -21,9 +21,9 @@
 
 I focus on software where interaction design and engineering rigor meet. My work centers on 60fps gestural fluency, thoughtful micro-interactions, and robust system architecture across mobile and web platforms.
 
-* **Mobile Craft:** Declarative UI architectures in Flutter & SwiftUI with custom physics and gestural navigations.
-* **Web Systems:** High-performance web applications with Next.js, React, TypeScript, and modern styling systems.
-* **Architecture:** Offline-first caching, local embedded databases (Sembast), optimized production builds, and clean component-driven design systems.
+* **Mobile Craft:** Declarative UI architectures in Flutter & SwiftUI with custom physics, haptic pacing, and gestural navigations.
+* **Web Systems:** High-performance web applications with Next.js 15, React 19, TypeScript, and modern luxury design tokens.
+* **Architecture:** Offline-first caching, local embedded databases (Sembast IndexedDB), responsive multi-viewport elasticity, and clean component-driven design systems.
 
 ---
 
@@ -33,25 +33,37 @@ I focus on software where interaction design and engineering rigor meet. My work
   <tr>
     <td width="50%" valign="top">
       <h4>🪑 <a href="https://github.com/Ghost-9/Furniture-App-UI">Furniture App UI</a></h4>
-      <p>Gesture-driven interior catalog inspired by high-end spatial aesthetics. Features collection carousels and story-style swipe transitions.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>Micro-interactions</code> <code>UI/UX</code></p>
+      <p>Gesture-driven interior catalog inspired by high-end spatial aesthetics. Features collection carousels, responsive multi-device viewports, and story-style swipe transitions.</p>
+      <p><code>Flutter 3.x</code> <code>Dart 3.x</code> <code>Adaptive Layouts</code> <code>UI/UX</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>💼 <a href="https://github.com/Ghost-9/employee_management">Employee Ledger PWA</a></h4>
-      <p>Production-grade cross-platform records management. Built with an offline-first Sembast database, APK tree-shaking, and progressive web deployment.</p>
-      <p><code>Flutter Web</code> <code>PWA</code> <code>Sembast</code> <code>Android APK</code></p>
+      <p>Executive team directory with real-time KPI headcount metrics, instant substring search, tenure computation, and offline-first Sembast persistence.</p>
+      <p><code>Flutter Web</code> <code>PWA</code> <code>BLoC 9.x</code> <code>Sembast NoSQL</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>🏥 <a href="https://github.com/Ghost-9/caretaker">CareTaker Concierge</a></h4>
-      <p>Modern healthcare and wellness digital front door built with Next.js and Tailwind CSS with responsive modular sections.</p>
-      <p><code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
+      <p>High-end healthcare and transitional care concierge platform built with Next.js 15 and Tailwind CSS. Features Care Disciplines Bento Grid and Clinical Protocols.</p>
+      <p><code>Next.js 15</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>☕ <a href="https://github.com/Ghost-9/Coffee-App">Coffee Experience</a></h4>
-      <p>Minimalist dark-mode coffee ordering experience translated from Dribbble design specs into fluid Flutter components.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>Dark Mode</code> <code>Mobile UI</code></p>
+      <h4>☕ <a href="https://github.com/Ghost-9/Coffee-App">Artisan Coffee App</a></h4>
+      <p>OLED-tuned artisan coffee ordering experience with interactive roast searching, fluid category switching, tactile cart physics, and Material 3 design.</p>
+      <p><code>Flutter 3.x</code> <code>Dart 3.x</code> <code>Dark Mode OLED</code> <code>Material 3</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌤️ <a href="https://github.com/Ghost-9/Weather-App">Cupertino Weather</a></h4>
+      <p>Native iOS & macOS weather application handcrafted with Apple's SwiftUI framework. Features dynamic diurnal cycles, ultra-thin frosted glass telemetry, and SF Symbols.</p>
+      <p><code>Swift 5.x</code> <code>SwiftUI</code> <code>SF Symbols 5</code> <code>Cupertino HIG</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>✨ <a href="https://github.com/Ghost-9?tab=repositories">More Projects</a></h4>
+      <p>Explore full repository archive covering experimental prototypes, open-source utilities, and architectural explorations.</p>
+      <p><code>Open Source</code> <code>GitHub Showcase</code> <code>Full Archive</code></p>
     </td>
   </tr>
 </table>
