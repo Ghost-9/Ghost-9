@@ -73,11 +73,13 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
 
 ### Notes
 
+- A note asks for nothing, and stores it in one file
+- A note can be pinned to the top, above the rest
+- Export writes Markdown beside the JSON
+- Search reads tag names as well as the note text
+- A note carries more than one tag, and no tag is required
 - Notes download as a single JSON file
-- The page follows your system light or dark setting
-- Results narrow as you type, and an empty query keeps what was there
-- Notes keep the order you left them in, newest first
-- A note saves without a title, and gets one the moment it opens
+- _…and 4 more in the history_
 
 ### Client operations platform
 
@@ -95,6 +97,7 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
 
 **Notes**
 
+- A note asks for nothing, and stores it in one file
 - A note can be pinned to the top, above the rest
 - Export writes Markdown beside the JSON
 - Search reads tag names as well as the note text
