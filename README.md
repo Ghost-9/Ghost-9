@@ -67,6 +67,13 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
 
 ---
 
+<!-- ROADMAP:START -->
+<!-- Everything between these two markers is rewritten by the roadmap generator
+     in Ghost-9/roadmap. Do not hand-edit anything in between. -->
+<!-- ROADMAP:END -->
+
+---
+
 ### Stack
 
 ```
