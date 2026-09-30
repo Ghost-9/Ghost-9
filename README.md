@@ -42,7 +42,7 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
   <tr>
     <td width="50%" valign="top">
       <h4>🏥 <a href="https://github.com/Ghost-9/caretaker">CareTaker Concierge</a></h4>
-      <p>High-end healthcare and transitional care concierge platform built with Next.js 15 and Tailwind CSS. Features Care Disciplines Bento Grid and Clinical Protocols.</p>
+      <p>Healthcare web application built with Next.js 15 and Tailwind CSS. Features an editorial bento layout, care protocol tiers, and online patient intake.</p>
       <p><a href="https://ghost-9.github.io/caretaker/"><strong>🌐 Launch Live Site</strong></a> &bull; <a href="https://caretaker-nine.vercel.app"><strong>⚡ Vercel Mirror</strong></a> &bull; <code>Next.js 15</code> <code>Tailwind CSS</code></p>
     </td>
     <td width="50%" valign="top">
