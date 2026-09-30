@@ -81,13 +81,13 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
 
 ### Client operations platform
 
-- extend offline-awareness to devices, milestones and summaries
-- clear offline cache on sign-out, show pending-changes badge
-- route tasks/goals/projects/devices mutations through MutationQueue
-- dashboard screen for Mission Control engine (Supabase mirror)
-- add Supabase sync queue for offline writes
-- offline cached rendering with invalidation
-- _…and 4 more in the history_
+- Extend offline-awareness to devices, milestones and summaries
+- Clear offline cache on sign-out, show pending-changes badge
+- Route tasks/goals/projects/devices mutations through MutationQueue
+- Dashboard screen for Mission Control engine (Supabase mirror)
+- Add Supabase sync queue for offline writes
+- Offline cached rendering with invalidation
+- _…and 3 more in the history_
 
 ## What has shipped
 
@@ -100,6 +100,12 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
 - Search reads tag names as well as the note text
 - A note carries more than one tag, and no tag is required
 
+
+## Considered and declined
+
+- Publish Notes as a hosted app
+- A rich text editor
+- Cloud sync for Notes
 
 <!-- ROADMAP:END -->
 
