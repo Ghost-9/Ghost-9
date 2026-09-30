@@ -68,8 +68,39 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
 ---
 
 <!-- ROADMAP:START -->
-<!-- Everything between these two markers is rewritten by the roadmap generator
-     in Ghost-9/roadmap. Do not hand-edit anything in between. -->
+
+## What we are building
+
+### Notes
+
+- Notes download as a single JSON file
+- The page follows your system light or dark setting
+- Results narrow as you type, and an empty query keeps what was there
+- Notes keep the order you left them in, newest first
+- A note saves without a title, and gets one the moment it opens
+
+### Client operations platform
+
+- extend offline-awareness to devices, milestones and summaries
+- clear offline cache on sign-out, show pending-changes badge
+- route tasks/goals/projects/devices mutations through MutationQueue
+- dashboard screen for Mission Control engine (Supabase mirror)
+- add Supabase sync queue for offline writes
+- offline cached rendering with invalidation
+- _…and 4 more in the history_
+
+## What has shipped
+
+### v0.1.0
+
+**Notes**
+
+- A note can be pinned to the top, above the rest
+- Export writes Markdown beside the JSON
+- Search reads tag names as well as the note text
+- A note carries more than one tag, and no tag is required
+
+
 <!-- ROADMAP:END -->
 
 ---
