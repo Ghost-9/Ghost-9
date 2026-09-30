@@ -31,7 +31,7 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
     <td width="50%" valign="top">
       <h4>🪑 <a href="https://github.com/Ghost-9/Furniture-App-UI">Furniture App UI</a></h4>
       <p>Gesture-driven interior catalog. Collection carousels, responsive multi-device viewports, and story-style swipe transitions.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>Adaptive Layouts</code> <code>UI/UX</code></p>
+      <p><a href="https://ghost-9.github.io/Furniture-App-UI/"><strong>🚀 Launch Web Demo</strong></a> &bull; <code>Flutter</code> <code>Dart</code> <code>Adaptive Layouts</code> <code>UI/UX</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>💼 <a href="https://github.com/Ghost-9/employee-ledger">Employee Ledger PWA</a></h4>
@@ -42,13 +42,13 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
   <tr>
     <td width="50%" valign="top">
       <h4>🏥 <a href="https://github.com/Ghost-9/caretaker">CareTaker Concierge</a></h4>
-      <p>Healthcare web application built with Next.js 15 and Tailwind CSS. Features an editorial bento layout, care protocol tiers, and online patient intake.</p>
-      <p><a href="https://ghost-9.github.io/caretaker/"><strong>🌐 Launch Live Site</strong></a> &bull; <a href="https://caretaker-nine.vercel.app"><strong>⚡ Vercel Mirror</strong></a> &bull; <code>Next.js 15</code> <code>Tailwind CSS</code></p>
+      <p>Healthcare web application built with Next.js 16 and Tailwind CSS. Features an editorial bento layout, care protocol tiers, and online patient intake.</p>
+      <p><a href="https://ghost-9.github.io/caretaker/"><strong>🌐 Launch Live Site</strong></a> &bull; <a href="https://caretaker-nine.vercel.app"><strong>⚡ Vercel Mirror</strong></a> &bull; <code>Next.js 16</code> <code>Tailwind CSS</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>☕ <a href="https://github.com/Ghost-9/Coffee-App">Artisan Coffee</a></h4>
       <p>OLED-tuned ordering experience: interactive roast search, fluid category switching, and a cart with tactile physics.</p>
-      <p><code>Flutter</code> <code>Dart</code> <code>Material 3</code> <code>OLED Dark</code></p>
+      <p><a href="https://ghost-9.github.io/Coffee-App/"><strong>🚀 Launch Web Demo</strong></a> &bull; <code>Flutter</code> <code>Dart</code> <code>Material 3</code> <code>OLED Dark</code></p>
     </td>
   </tr>
   <tr>
@@ -72,7 +72,6 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
 ## What we are building
 
 ### Notes
-
 - Notes download as a single JSON file
 - The page follows your system light or dark setting
 - Results narrow as you type, and an empty query keeps what was there
@@ -80,7 +79,6 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
 - A note saves without a title, and gets one the moment it opens
 
 ### Client operations platform
-
 - Extend offline-awareness to devices, milestones and summaries
 - Clear offline cache on sign-out, show pending-changes badge
 - Route tasks/goals/projects/devices mutations through MutationQueue
@@ -91,26 +89,37 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
 
 ## What has shipped
 
+### v1.2.0
+**CareTaker**
+- Editorial bento architecture, Next.js 16 runtime, and custom patient protocol cards
+
+**Furniture App UI**
+- Multi-device responsive engine and interactive web deployment
+
+### v1.1.0
+**Artisan Coffee**
+- OLED dark mode catalog, Material 3 upgrade, and web preview build
+
+**Employee Ledger**
+- Offline-first Sembast database persistence, real-time KPI metrics, and PWA packaging
+
 ### v0.1.0
-
 **Notes**
-
 - A note can be pinned to the top, above the rest
 - Export writes Markdown beside the JSON
 - Search reads tag names as well as the note text
 - A note carries more than one tag, and no tag is required
 
-
 ## Considered and declined
-
 - Publish Notes as a hosted app
 - A rich text editor
 - Cloud sync for Notes
 
+👉 **[Explore Full Roadmap & Milestones →](https://github.com/Ghost-9/roadmap)**
+
 <!-- ROADMAP:END -->
 
 ---
-
 ### Stack
 
 ```
