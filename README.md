@@ -34,7 +34,7 @@ I work where interaction design and engineering rigor meet: 60fps gestural fluen
       <p><code>Flutter</code> <code>Dart</code> <code>Adaptive Layouts</code> <code>UI/UX</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4>💼 <a href="https://github.com/Ghost-9/employee_management">Employee Ledger PWA</a></h4>
+      <h4>💼 <a href="https://github.com/Ghost-9/employee-ledger">Employee Ledger PWA</a></h4>
       <p>Team directory with live headcount metrics, substring search, tenure computation, and offline-first Sembast persistence.</p>
       <p><code>Flutter Web</code> <code>PWA</code> <code>BLoC</code> <code>Sembast</code></p>
     </td>
