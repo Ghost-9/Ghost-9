@@ -60,7 +60,12 @@ I focus on software where interaction design and engineering rigor meet. My work
 
 ### Systems & Technologies
 
-
+```
+Mobile Platforms      Flutter · Dart · Swift · SwiftUI
+Web & Frontend        TypeScript · React · Next.js · Tailwind CSS
+State & Storage       Bloc / Provider · Sembast · Offline-First · REST
+Tooling & Build       Xcode · Android Studio · Git · Vercel · GitHub Actions
+```
 
 ---
 
